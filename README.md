@@ -1,4 +1,4 @@
-# Rimworld Mod Template
+# Rimworld Mod Template (Linux version)
 
 This template is created for Rimworld modders who use [Visual Studio Code](https://code.visualstudio.com/) instead of Visual Studio IDE.
 
